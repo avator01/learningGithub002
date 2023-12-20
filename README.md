@@ -1,3 +1,5 @@
-# learningGithub002
+# My personal blog.
 
-This is a description for the Readme file.
+## Today is going to be a great day!
+
+Today was the best day ever for learning GitHub!
